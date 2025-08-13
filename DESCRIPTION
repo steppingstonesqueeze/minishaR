@@ -1,0 +1,11 @@
+Package: minishaR
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R:
+    person("Girish", "Nathan", , "girish.nathan@gmail.com", role = c("aut", "cre"))
+Description: This is a mini SHA implementation from scratch .
+License: MIT
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
